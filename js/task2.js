@@ -20,8 +20,8 @@ const users = [
   /*
    * Сейчас работает так
    */
-  toggleUserState(users, 'Mango', logger);
-  toggleUserState(users, 'Lux', logger);
+ // toggleUserState(users, 'Mango', logger);
+ // toggleUserState(users, 'Lux', logger);
   
   /*
    * Должно работать так
